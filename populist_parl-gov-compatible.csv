@@ -1,0 +1,128 @@
+Country,Party,Populist,Far right,Far left,Eurosceptic
+Austria,FPO,1,1,0,1
+Austria,TS,1,0,0,1
+Austria,BZO,1,1,0,1
+Austria,Martin,1,0,0,1
+Belgium,VB,1,1,0,1
+Belgium,PvdA,0,0,1,1
+Belgium,LD|LDD,1,0,0,0
+Belgium,FN,1,1,0,1
+Bulgaria,Ataka,1,1,0,1
+Bulgaria,GERB,1,0,0,0
+Bulgaria,BBZ,1,0,0,1
+Bulgaria,VMRO,0,1,0,1
+Bulgaria,NA,1,1,0,1
+Bulgaria,NFSB,1,1,0,1
+Bulgaria,RZS,1,1,0,0
+Bulgaria,NDSV,1,0,0,0
+Croatia,CL-LP,1,0,1,0
+Croatia,HSP,0,1,0,1
+Croatia,HDSSB,1,1,0,0
+Croatia,ZZ,1,0,0,1
+Croatia,Most,1,0,0,0
+Cyprus,AKEL,0,0,1,1
+Cyprus,ELAM,0,1,0,1
+Cyprus,SYM,1,0,1,1
+Czech Republic,ANO,1,0,0,0
+Czech Republic,UPD,1,1,0,1
+Czech Republic,SPD,1,1,0,1
+Czech Republic,KSCM,0,0,1,1
+Czech Republic,SSO,0,0,0,1
+Czech Republic,VV,1,0,0,0
+Czech Republic,S-JB,1,0,0,1
+Czech Republic,SPR-RSC,1,1,0,1
+Denmark,DF,1,1,0,1
+Denmark,En-O,0,0,1,1
+Denmark,SF,0,0,1,0
+Denmark,FrP,1,1,0,1
+Estonia,ERP,1,0,0,0
+Estonia,NA,1,1,0,1
+Finland,NA,1,1,0,1
+Finland,DL|VAS,0,0,1,1
+Finland,UV|SIN,1,0,0,1
+France,FN,1,1,0,1
+France,PCF,0,0,1,1
+France,FI,1,0,1,1
+Germany,Li/PDS,1,0,1,1
+Germany,AfD,1,1,0,1
+Greece,SYRIZA,1,0,1,1
+Greece,ANEL,1,0,0,1
+Greece,LS-CA,0,1,0,1
+Greece,KKE,0,0,1,1
+Greece,LAOS,1,1,0,1
+Greece,SYN,0,0,1,1
+Greece,DIKKI,1,0,1,1
+Hungary,NA,1,1,0,1
+Hungary,Jobbik,1,1,0,1
+Hungary,MIEP,1,1,0,1
+Hungary,MMP,0,0,1,1
+Iceland,NA,0,0,1,1
+Iceland,NA,0,0,0,1
+Iceland,NA,1,0,0,1
+Iceland,NA,1,0,0,1
+Iceland,NA,1,0,0,0
+Iceland,NA,0,0,0,1
+Iceland,NA,0,0,0,1
+Ireland,SF,1,0,1,1
+Ireland,NA,0,0,1,1
+Italy,PLD,1,0,0,0
+Italy,LN,1,1,0,1
+Italy,M5S,1,0,0,1
+Italy,NA,0,0,1,0
+Italy,FdI-CN,1,1,0,1
+Italy,NA,0,0,1,1
+Italy,PdCI,0,0,1,1
+Italy,MSFT,0,1,0,1
+Italy,PRC,0,0,1,1
+Latvia,JL,1,0,0,0
+Latvia,NA,1,0,0,0
+Lithuania,TT-LDP,1,0,0,1
+Lithuania,TPP,1,0,0,0
+Lithuania,DK,1,0,0,0
+Lithuania,DP,1,0,0,0
+Lithuania,LCP,1,0,0,1
+Lithuania,SPF,0,0,1,1
+Luxembourg,AR|ADR,1,0,0,1
+Luxembourg,DL,0,0,1,1
+Netherlands,PVV,1,1,0,1
+Netherlands,NA,1,0,1,1
+Netherlands,PvdD,0,0,0,1
+Netherlands,SGP,0,0,0,1
+Netherlands,LPF,1,1,0,1
+Netherlands,50+,0,0,0,1
+Norway,FrP,1,1,0,1
+Norway,NA,0,0,1,1
+Norway,NA,0,0,0,1
+Norway,NA,0,0,1,1
+Norway,NA,0,0,0,1
+Poland,PiS,1,1,0,1
+Poland,K,1,1,0,1
+Poland,LPR,1,1,0,1
+Poland,LP,0,1,0,1
+Poland,Razem,0,0,1,0
+Poland,SRP,1,0,0,1
+Portugal,BE,0,0,1,1
+Portugal,CDU,0,0,1,1
+Romania,PRM,1,1,0,1
+Romania,PRU,1,1,0,1
+Romania,PP-DD,1,0,0,0
+Slovakia,Smer,1,0,0,0
+Slovakia,ANO,1,0,0,0
+Slovakia,SNS,1,1,0,1
+Slovakia,LsNS,0,1,0,1
+Slovakia,OLaNO,1,0,0,0
+Slovakia,KSS,0,0,1,1
+Slovakia,SR,1,1,0,1
+Slovakia,SaS,0,0,0,1
+Slovakia,PSNS,1,1,0,1
+Slovenia,ZdLe,1,0,1,1
+Slovenia,SNS,1,0,0,1
+Slovenia,LMS,1,0,0,0
+Spain,P,1,0,1,1
+Spain,NA,0,0,1,1
+Sweden,SD,1,1,0,1
+Sweden,V,0,0,1,1
+Switzerland,NA,1,1,0,1
+United Kingdom,UKIP,1,1,0,1
+United Kingdom,Con,0,0,0,1
+United Kingdom,DUP,0,0,0,1
